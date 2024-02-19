@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -cp wrangLR.0.8.5.jar wrangLR.generator.main.Main MJGrammar.java -o MJGrammarParseTable.java
